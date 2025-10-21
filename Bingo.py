@@ -1,6 +1,6 @@
 import random
 
-bingo_reelid = {
+bingo_reeglid = {
     'B': 5,
     'I': 5,
     'N': 5,
@@ -102,4 +102,5 @@ def mängi_bingot():
         input('Vajuta "Enter", et järgmine pall panna loosi')
 
 if __name__ == "__main__":
+
     mängi_bingot
